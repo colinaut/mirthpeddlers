@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -38,7 +38,7 @@
 
 
 
-<p>If you don&#8217;t know <em><a href="https://en.wikipedia.org/wiki/Jeeves_and_Wooster">Jeeves and Wooster</a></em> then there is no time like the present to get acquainted! You can read P.G. Wodehouse&#8217;s original book <a href="http://www.gutenberg.org/ebooks/59254">The Inimitable Jeeves</a> via Project Gutenberg. Or watch the hilarious BBC TV version starring Stephen Fry and Hugh Laurie via YouTube!</p>
+<p>If you don&#8217;t know <em><a href="https://en.wikipedia.org/wiki/Jeeves_and_Wooster">Jeeves and Wooster</a></em> then there is no time like the present to get acquainted! You can read P.G. Wodehouse&#8217;s original book <a href="https://www.gutenberg.org/ebooks/59254">The Inimitable Jeeves</a> via Project Gutenberg. Or watch the hilarious BBC TV version starring Stephen Fry and Hugh Laurie via YouTube!</p>
 
 
 
